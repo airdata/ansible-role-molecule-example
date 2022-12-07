@@ -4,4 +4,4 @@
   tasks:
     - name: "Include acme.my_new_role"
       include_role:
-        name: my_new_role
+        name: "acme.my_new_role"
